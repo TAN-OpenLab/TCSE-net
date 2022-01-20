@@ -1,7 +1,8 @@
 ~~# PoP-net
-A novel popularity prediction network (PoP-Net), which consists of two branches for dealing with evolutional patterns of cascades and interactions between users respectively, for online content.
+A novel popularity prediction network (PoP-Net), which consists of two branches for dealing with evolutional patterns of cascades and interactions between users respectively, for online content.~~
 
-#TCSE-Net is a implemention of paper 'Trend and cascade based spatiotemporal evolution network to predict online content popularity', and is under reviewed by Multimedia Tools and Applications.
+# TCSE-Net 
+TCSE-Net is a implemention of paper 'Trend and cascade based spatiotemporal evolution network to predict online content popularity', and is under reviewed by Multimedia Tools and Applications.
 
 ## Dependency Package
 
